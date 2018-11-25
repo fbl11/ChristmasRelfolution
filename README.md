@@ -53,7 +53,7 @@ Front end testing was carried out manually by the users after developing each ne
 
 ## Deployment
 
-[Christmas rElfolution](https://racldn.github.io/ChristmasRelfolution/) is deployed using GitHub pages.
+[Christmas rElfolution](https://fbl11.github.io/ChristmasRelfolution/) is deployed using GitHub pages.
 
 ## Technologies
 
@@ -80,7 +80,7 @@ Front end testing was carried out manually by the users after developing each ne
 * [Shweta Patil](https://github.com/shwetzpatil)
 * [Chloe Mingay](https://github.com/ChloeHelen)
 * [Nathan Quayle](https://github.com/NathanQuayle)
-* [Nazziya Kadri](https://github.com/nazzkadri)
+* [Naziya Kadri](https://github.com/nazzkadri)
 * [Freya Becker](https://github.com/fbl11)
 * [Robbie Campbell](https://github.com/racldn)
 
